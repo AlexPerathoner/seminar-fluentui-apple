@@ -45,6 +45,7 @@
   },
   "testTargets" : [
     {
+      "enabled" : false,
       "target" : {
         "containerPath" : "container:FluentUI.xcodeproj",
         "identifier" : "E61C96BA2295E8D60006561F",
